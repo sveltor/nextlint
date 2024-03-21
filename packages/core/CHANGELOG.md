@@ -1,5 +1,11 @@
 # @nextlint/core
 
+## 1.4.2
+
+### Patch Changes
+
+- [#83](https://github.com/sveltor/nextlint/pull/83) [`7067279`](https://github.com/sveltor/nextlint/commit/70672796b58080e81cf46cd8b82bb3fa2f99637d) Thanks [@lynhan318](https://github.com/lynhan318)! - remove log
+
 ## 1.4.1
 
 ### Patch Changes
